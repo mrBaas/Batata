@@ -1,0 +1,8 @@
+C:\Projects\Batata\BatataConsole\bin\Debug\BatataConsole.exe.config
+C:\Projects\Batata\BatataConsole\bin\Debug\BatataConsole.exe
+C:\Projects\Batata\BatataConsole\bin\Debug\BatataConsole.pdb
+C:\Projects\Batata\BatataConsole\obj\Debug\BatataConsole.csprojResolveAssemblyReference.cache
+C:\Projects\Batata\BatataConsole\obj\Debug\BatataConsole.exe
+C:\Projects\Batata\BatataConsole\obj\Debug\BatataConsole.pdb
+C:\Projects\Batata\BatataConsole\bin\Debug\Batata.dll
+C:\Projects\Batata\BatataConsole\bin\Debug\Batata.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Batata\Batata\bin\Debug\Batata.dll
+C:\Projects\Batata\Batata\bin\Debug\Batata.pdb
+C:\Projects\Batata\Batata\obj\Debug\Batata.dll
+C:\Projects\Batata\Batata\obj\Debug\Batata.pdb
+C:\Projects\Batata\Batata\obj\Debug\Batata.csprojResolveAssemblyReference.cache

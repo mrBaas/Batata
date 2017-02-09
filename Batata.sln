@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batata", "Batata\Batata.csproj", "{58E99ADA-EFB9-4453-9557-BF77BF29F7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatataConsole", "BatataConsole\BatataConsole.csproj", "{26C6D5AE-91A2-443D-961B-2AD329B76A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E99ADA-EFB9-4453-9557-BF77BF29F7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E99ADA-EFB9-4453-9557-BF77BF29F7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E99ADA-EFB9-4453-9557-BF77BF29F7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E99ADA-EFB9-4453-9557-BF77BF29F7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C6D5AE-91A2-443D-961B-2AD329B76A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C6D5AE-91A2-443D-961B-2AD329B76A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C6D5AE-91A2-443D-961B-2AD329B76A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C6D5AE-91A2-443D-961B-2AD329B76A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
